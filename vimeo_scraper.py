@@ -2,7 +2,7 @@ import urllib
 import urllib2
 import json
 import BeautifulSoup
-url_list = ["https://vimeo.com/181171473"]
+url_list = ["https://vimeo.com"]
 for i in range(len(url_list)):
     url = url_list[i]
     print url
